@@ -1,0 +1,6 @@
+torch==2.6.0
+torchvision 
+torchaudio 
+peft==0.15.1
+tokenizers-0.20.3 
+transformers-4.45.2
